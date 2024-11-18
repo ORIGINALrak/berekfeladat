@@ -1,0 +1,14 @@
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.AssemblyInfoInputs.cache
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.AssemblyInfo.cs
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.csproj.CoreCompileInputs.cache
+C:\Users\molnar.kristof\Desktop\20241118\bin\Debug\net8.0\20241118.exe
+C:\Users\molnar.kristof\Desktop\20241118\bin\Debug\net8.0\20241118.deps.json
+C:\Users\molnar.kristof\Desktop\20241118\bin\Debug\net8.0\20241118.runtimeconfig.json
+C:\Users\molnar.kristof\Desktop\20241118\bin\Debug\net8.0\20241118.dll
+C:\Users\molnar.kristof\Desktop\20241118\bin\Debug\net8.0\20241118.pdb
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.dll
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\refint\20241118.dll
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.pdb
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\20241118.genruntimeconfig.cache
+C:\Users\molnar.kristof\Desktop\20241118\obj\Debug\net8.0\ref\20241118.dll
